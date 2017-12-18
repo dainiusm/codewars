@@ -1,12 +1,12 @@
-Kata: https://www.codewars.com/kata/mumbling
+**Kata**: https://www.codewars.com/kata/mumbling
 
-Language: C
+**Language**: C
 
-Level: 7 kyu
+**Level**: 7 kyu
 
 This time no story, no theory. The examples below show you how to write function `accum`:
 
-*Examples:*
+**Examples:**
 
 ```c
 accum("abcd")    # "A-Bb-Ccc-Dddd"
